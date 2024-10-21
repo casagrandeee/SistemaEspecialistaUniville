@@ -7,7 +7,7 @@ O **Sistema Especialista Univille** é um projeto desenvolvido para ajudar estud
 ## Funcionalidades Principais
 
 - **Interface Intuitiva**: Sistema com design baseado na paleta de cores e logotipos da Univille.
-- **Quiz Dinâmico**: Composto por 15 perguntas, que avaliam as preferências do usuário em diversas áreas do conhecimento.
+- **Quiz Dinâmico**: Composto por 10 perguntas, que avaliam as preferências do usuário em diversas áreas do conhecimento.
 - **Sistema de Relatório**: Ao finalizar o quiz, um relatório é gerado com a recomendação de cursos e links para mais informações.
 - **Perguntas Abrangentes**: O quiz contém perguntas direcionadas para todas as áreas de estudo oferecidas pela Univille (Humanas, Exatas, Biológicas).
 - **Navegação Fácil**: O usuário pode navegar pelo sistema usando botões intuitivos em vez de caixas de seleção.
